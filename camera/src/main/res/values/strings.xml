@@ -1,0 +1,5 @@
+<resources>
+    <string name="cameralibrary_only_photo">轻触拍照</string>
+    <string name="cameralibrary_only_video">长按录制视频</string>
+    <string name="cameralibrary_photo_video">轻触拍照，长按录制视频</string>
+</resources>
