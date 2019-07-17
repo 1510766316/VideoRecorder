@@ -30,7 +30,7 @@ Add it in your root build.gradle at the end of repositories:
 Step 2. Add the dependency
 
 	dependencies {
-	        implementation 'com.gitee.DYKZ:VideoRecorder:1.0.1'
+	        implementation 'com.github.1510766316:VideoRecorder:1.0.1'
 	}
 
-# 注意权限申请
+## 注意权限申请
